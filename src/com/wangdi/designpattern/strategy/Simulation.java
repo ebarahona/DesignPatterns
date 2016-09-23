@@ -1,6 +1,6 @@
 package com.wangdi.designpattern.strategy;
 
-public class Client {
+public class Simulation {
 
 	public static void main(String[] args) {
 		CashContext cc = new CashContext("打8折");
