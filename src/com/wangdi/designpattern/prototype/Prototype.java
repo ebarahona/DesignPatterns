@@ -1,7 +1,7 @@
 package com.wangdi.designpattern.prototype;
 
-public class Prototype implements Cloneable {
-
+public abstract class Prototype implements Cloneable {
+	
 	@Override
 	public Object clone() {
 		Prototype prototype = null;
