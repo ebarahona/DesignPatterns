@@ -1,6 +1,6 @@
 package com.wangdi.designpattern.observer;
 
-public class Simulation {
+public class Client {
 
 	public static void main(String[] args) {
 		Subject subject1 = new Subject(1);

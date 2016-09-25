@@ -1,6 +1,6 @@
 package com.wangdi.designpattern.decorator2;
 
-public class Simulation {
+public class Client {
 
 	public static void main(String[] args) {
 		ICoffee smallCup = new CoffeeSmallCup();

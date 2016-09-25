@@ -1,7 +1,7 @@
 package com.wangdi.designpattern.simplefactory;
 import java.util.Scanner;
 
-public class Simulation {
+public class Client {
 	private static Operation operation;
 	
 	public static void main(String[] args) {
